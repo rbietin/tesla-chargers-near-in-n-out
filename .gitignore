@@ -16,8 +16,7 @@ ENV/
 *.swo
 
 # Data files (can be regenerated)
-data/*.json
-data/*.csv
+data/
 
 # OS
 .DS_Store
