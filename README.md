@@ -2,6 +2,8 @@
 
 Find Tesla Superchargers within walking distance of In-N-Out Burger locations in California. Perfect for road trips when you want to grab a burger while your car charges.
 
+**[View the map](https://www.google.com/maps/d/edit?mid=1na82zQDa9YaKaYCwGt67Lfdvvblt19E&usp=sharing)** (generated February 2, 2026)
+
 ## Quick Start
 
 ```bash
